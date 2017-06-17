@@ -5,3 +5,4 @@
 - [Reinforcement learning](http://karpathy.github.io/2016/05/31/rl/)
 - [Stateful LSTM](http://machinelearningmastery.com/understanding-stateful-lstm-recurrent-neural-networks-python-keras/)
 - [XGBoost](http://xgboost.readthedocs.io/en/latest/model.html)
+- [Self-organizing feature map](http://www.ai-junkie.com/ann/som/som4.html)
